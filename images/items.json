@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 491,
-				"h": 651
+				"h": 683
 			},
 			"scale": 1,
 			"frames": [
@@ -7866,22 +7866,22 @@
 				{
 					"filename": "power_herb",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
 						"w": 32,
 						"h": 32
 					},
 					"spriteSourceSize": {
-						"x": 5,
-						"y": 6,
-						"w": 21,
-						"h": 19
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
 					},
 					"frame": {
-						"x": 346,
-						"y": 438,
-						"w": 21,
-						"h": 19
+						"x": 0,
+						"y": 651,
+						"w": 32,
+						"h": 32
 					}
 				},
 				{
