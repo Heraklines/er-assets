@@ -5,7 +5,7 @@
       "format": "RGBA8888",
       "size": {
         "w": 64,
-        "h": 1536
+        "h": 1280
       },
       "scale": 1,
       "frames": [
@@ -425,90 +425,6 @@
           "frame": {
             "x": 0,
             "y": 1216,
-            "w": 64,
-            "h": 64
-          }
-        },
-        {
-          "filename": "0021.png",
-          "rotated": false,
-          "trimmed": false,
-          "sourceSize": {
-            "w": 64,
-            "h": 64
-          },
-          "spriteSourceSize": {
-            "x": 0,
-            "y": 0,
-            "w": 64,
-            "h": 64
-          },
-          "frame": {
-            "x": 0,
-            "y": 1280,
-            "w": 64,
-            "h": 64
-          }
-        },
-        {
-          "filename": "0022.png",
-          "rotated": false,
-          "trimmed": false,
-          "sourceSize": {
-            "w": 64,
-            "h": 64
-          },
-          "spriteSourceSize": {
-            "x": 0,
-            "y": 0,
-            "w": 64,
-            "h": 64
-          },
-          "frame": {
-            "x": 0,
-            "y": 1344,
-            "w": 64,
-            "h": 64
-          }
-        },
-        {
-          "filename": "0023.png",
-          "rotated": false,
-          "trimmed": false,
-          "sourceSize": {
-            "w": 64,
-            "h": 64
-          },
-          "spriteSourceSize": {
-            "x": 0,
-            "y": 0,
-            "w": 64,
-            "h": 64
-          },
-          "frame": {
-            "x": 0,
-            "y": 1408,
-            "w": 64,
-            "h": 64
-          }
-        },
-        {
-          "filename": "0024.png",
-          "rotated": false,
-          "trimmed": false,
-          "sourceSize": {
-            "w": 64,
-            "h": 64
-          },
-          "spriteSourceSize": {
-            "x": 0,
-            "y": 0,
-            "w": 64,
-            "h": 64
-          },
-          "frame": {
-            "x": 0,
-            "y": 1472,
             "w": 64,
             "h": 64
           }
