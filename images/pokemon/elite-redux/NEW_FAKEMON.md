@@ -76,3 +76,38 @@ degrade gracefully anywhere the anim isn't built.
   leftmost (dark-body) column is treated as normal.
 - **Partner Eevee: NO art exists yet.** No partner-Eevee sprite was provided and
   none was invented. The game side uses placeholder redirects for it.
+
+## Slice corrections (2026-07 re-audit)
+
+- **hydreigon_mega_x RE-SLICED (bug fix).** The first pass mis-sliced every
+  `hydreigon_mega_x` sprite: `front`/`shiny` were the *head-cluster only* (the three
+  heads with no body/tail — this read in-dex as "three small sub-sprites side by
+  side"), and `back`/`shiny-back` were a fragment (one arm-head + tail loop), not a
+  real render. Re-derived from `Mega_hydreigon_x_sheet.webp` (600×398, transparent
+  bg with opaque-black filler blocks on the left). **True layout:** top half =
+  normal palette, bottom half = shiny (purple manes / orange heads). Each half is a
+  left-to-right size ladder — small icon/anim frames on a black block (x 0–200),
+  medium front+back (x 220–310), large front+back (x 323–413), and a single **big
+  showcase front** filling the right column (x 426–594, the full half-height).
+  Slices used: `front` = normal big showcase (comp bbox 426,13–594,181);
+  `shiny` = shiny big showcase (426,211–594,379); `back` = normal large back
+  (334,110–413,188); `shiny-back` = shiny large back (334,308–413,386); `icon`
+  down-scaled from the front. Extraction is by connected-component (each sprite is
+  an isolated alpha blob), so no neighbour bleed and the near-black body is never
+  eaten. All five outputs Read-verified as one complete Pokémon each.
+- **minun_mega / plusle_mega verified CORRECT (no art change).** Re-checked the
+  shared `Mega_minun_and_plusle_front_back_icon_sheet.webp` (905×237). Published
+  slices are complete, single-sprite, transparent, with the right per-variant
+  palette (Minun front = blue / shiny = green; Plusle front = red / shiny = orange),
+  matching the source small-frame grid. The sheet has a **big normal-colour
+  showcase** for each (Plusle x 273–428, Minun x 717–870) but **no shiny showcase**,
+  so front and shiny must both come from the small frames to keep normal/shiny at a
+  matching scale — which is exactly what shipped. The reported "no image in the
+  Pokédex" for these two is therefore **not an asset defect** (PNGs are non-empty
+  and the atlas JSON is valid) — it points to a game-side dex loader / form
+  registration issue for `er_mega_minun` / `er_mega_plusle`; flagged for the
+  game-side agent.
+- **xerneas_mega verified CORRECT (no art change).** All 8 variant sprites are clean
+  single Xerneas. The `shiny` (Active-mode black body) and `shiny-3` (silver/teal)
+  fronts *look* busy/"doubled" at 64px but are single animals — confirmed by
+  matching them pixel-for-pixel against clean cell re-slices of the source.
