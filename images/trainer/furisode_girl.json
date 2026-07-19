@@ -1,0 +1,35 @@
+{
+  "frames": {
+    "0001.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 152
+      }
+    }
+  },
+  "meta": {
+    "app": "Elite Redux editor",
+    "version": "1.0",
+    "image": "sprite.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 128,
+      "h": 152
+    },
+    "scale": "1"
+  }
+}
