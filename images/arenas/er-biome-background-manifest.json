@@ -1,0 +1,1174 @@
+{
+  "schemaVersion": 1,
+  "outputSize": [
+    320,
+    180
+  ],
+  "aspectCrop": "center 16:9",
+  "resampling": "nearest-neighbor",
+  "entries": [
+    {
+      "asset": "construction_site_bg.png",
+      "biome": "construction_site",
+      "scene": "landfill",
+      "lighting": "day",
+      "sourceFile": "landfill_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "construction_site_bg_dusk.png",
+      "biome": "construction_site",
+      "scene": "landfill",
+      "lighting": "dusk",
+      "sourceFile": "landfill_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "construction_site_bg_night.png",
+      "biome": "construction_site",
+      "scene": "landfill",
+      "lighting": "night",
+      "sourceFile": "landfill_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "factory_bg.png",
+      "biome": "factory",
+      "scene": "warehouse",
+      "lighting": "all",
+      "sourceFile": "warehouse_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "fairy_cave_bg.png",
+      "biome": "fairy_cave",
+      "scene": "aether mine",
+      "lighting": "all",
+      "sourceFile": "aethermine_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "fairy_cave_bg_crystal_water_day.png",
+      "biome": "fairy_cave",
+      "scene": "crystal water cave",
+      "lighting": "day",
+      "sourceFile": "cavewater2_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "fairy_cave_bg_crystal_water_night.png",
+      "biome": "fairy_cave",
+      "scene": "crystal water cave",
+      "lighting": "night",
+      "sourceFile": "cavewater7_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "laboratory_bg.png",
+      "biome": "laboratory",
+      "scene": "clean laboratory",
+      "lighting": "all",
+      "sourceFile": "lab_bg.jpg",
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "laboratory_bg_destroyed.png",
+      "biome": "laboratory",
+      "scene": "destroyed laboratory",
+      "lighting": "all",
+      "sourceFile": "destroyedlab_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "laboratory_bg_science_night.png",
+      "biome": "laboratory",
+      "scene": "dark science laboratory",
+      "lighting": "all",
+      "sourceFile": "sciencelab_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg.png",
+      "biome": "metropolis",
+      "scene": "cyber city central",
+      "lighting": "day",
+      "sourceFile": "cybercity_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_dusk.png",
+      "biome": "metropolis",
+      "scene": "cyber city central",
+      "lighting": "dusk",
+      "sourceFile": "cybercity_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_night.png",
+      "biome": "metropolis",
+      "scene": "cyber city central",
+      "lighting": "night",
+      "sourceFile": "cybercity_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_east_day.png",
+      "biome": "metropolis",
+      "scene": "cyber city east",
+      "lighting": "day",
+      "sourceFile": "cybercityeast_day_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_east_dusk.png",
+      "biome": "metropolis",
+      "scene": "cyber city east",
+      "lighting": "dusk",
+      "sourceFile": "cybercityeast_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_east_night.png",
+      "biome": "metropolis",
+      "scene": "cyber city east",
+      "lighting": "night",
+      "sourceFile": "cybercityeast_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_west_day.png",
+      "biome": "metropolis",
+      "scene": "cyber city west",
+      "lighting": "day",
+      "sourceFile": "cybercitywest_day_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_west_dusk.png",
+      "biome": "metropolis",
+      "scene": "cyber city west",
+      "lighting": "dusk",
+      "sourceFile": "cybercitywest_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_west_night.png",
+      "biome": "metropolis",
+      "scene": "cyber city west",
+      "lighting": "night",
+      "sourceFile": "cybercitywest_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_park_day.png",
+      "biome": "metropolis",
+      "scene": "Orion city park",
+      "lighting": "day",
+      "sourceFile": "orion_city_park_day_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_park_dusk.png",
+      "biome": "metropolis",
+      "scene": "Orion city park",
+      "lighting": "dusk",
+      "sourceFile": "orion_city_park_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_park_night.png",
+      "biome": "metropolis",
+      "scene": "Orion city park",
+      "lighting": "night",
+      "sourceFile": "orion_city_park_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "metropolis_bg_mart.png",
+      "biome": "metropolis",
+      "scene": "Pokemart interior",
+      "lighting": "all",
+      "sourceFile": "pokemart_battle_background_by_princess_phoenix_dkwygap-375w-2x.jpg",
+      "sourceCropSize": [
+        640,
+        480
+      ],
+      "aspectCropSize": [
+        640,
+        360
+      ]
+    },
+    {
+      "asset": "seabed_bg.png",
+      "biome": "seabed",
+      "scene": "clear reef",
+      "lighting": "all",
+      "sourceFile": "Underwater_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "seabed_bg_dirty.png",
+      "biome": "seabed",
+      "scene": "murky reef",
+      "lighting": "all",
+      "sourceFile": "dirtyunderwater_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "slum_bg.png",
+      "biome": "slum",
+      "scene": "urban drainage tunnel",
+      "lighting": "all",
+      "sourceFile": "urbantunnel_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "swamp_bg.png",
+      "biome": "swamp",
+      "scene": "jungle swamp path",
+      "lighting": "all",
+      "sourceFile": "swamp_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "swamp_bg_wetlands.png",
+      "biome": "swamp",
+      "scene": "wetlands",
+      "lighting": "all",
+      "sourceFile": "battlebgswamp2_by_aveontrainer_dd2qjzq-375w-2x.jpg",
+      "sourceCropSize": [
+        400,
+        225
+      ],
+      "aspectCropSize": [
+        400,
+        225
+      ]
+    },
+    {
+      "asset": "swamp_bg_path.png",
+      "biome": "swamp",
+      "scene": "swamp path",
+      "lighting": "all",
+      "sourceFile": "battlebgswamp_by_aveontrainer_dd2p5b8-375w-2x.jpg",
+      "sourceCropSize": [
+        400,
+        225
+      ],
+      "aspectCropSize": [
+        400,
+        225
+      ]
+    },
+    {
+      "asset": "swamp_bg_shadowmoon.png",
+      "biome": "swamp",
+      "scene": "Shadowmoon marsh",
+      "lighting": "all",
+      "sourceFile": "shadowmoonmarsh_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "forest_bg_shadowmoon.png",
+      "biome": "forest",
+      "scene": "Shadowmoon forest",
+      "lighting": "all",
+      "sourceFile": "shadowmoonforest_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "cave_bg_crystal_day.png",
+      "biome": "cave",
+      "scene": "crystal cave",
+      "lighting": "day",
+      "sourceFile": "cave2_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "cave_bg_crystal_night.png",
+      "biome": "cave",
+      "scene": "crystal cave",
+      "lighting": "night",
+      "sourceFile": "cave7_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "dojo_bg_interior.png",
+      "biome": "dojo",
+      "scene": "traditional dojo interior",
+      "lighting": "all",
+      "sourceFile": "dogo.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "lake_bg_orion_day.png",
+      "biome": "lake",
+      "scene": "Orion park lake",
+      "lighting": "day",
+      "sourceFile": "orion_city_park_water_day_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "lake_bg_orion_dusk.png",
+      "biome": "lake",
+      "scene": "Orion park lake",
+      "lighting": "dusk",
+      "sourceFile": "orion_city_park_water_eve_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "lake_bg_orion_night.png",
+      "biome": "lake",
+      "scene": "Orion park lake",
+      "lighting": "night",
+      "sourceFile": "orion_city_park_water_night_bg.png",
+      "sourceCropSize": [
+        512,
+        288
+      ],
+      "aspectCropSize": [
+        512,
+        288
+      ]
+    },
+    {
+      "asset": "grass_bg_rocky_day.png",
+      "biome": "grass",
+      "scene": "rocky grassland",
+      "lighting": "day",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        1,
+        1
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "grass_bg_rocky_dusk.png",
+      "biome": "grass",
+      "scene": "rocky grassland",
+      "lighting": "dusk",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        1,
+        2
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "grass_bg_rocky_night.png",
+      "biome": "grass",
+      "scene": "rocky grassland",
+      "lighting": "night",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        1,
+        3
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "dojo_bg_stadium_day.png",
+      "biome": "dojo",
+      "scene": "battle stadium",
+      "lighting": "day",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        2,
+        1
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "dojo_bg_stadium_dusk.png",
+      "biome": "dojo",
+      "scene": "battle stadium",
+      "lighting": "dusk",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        2,
+        2
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "dojo_bg_stadium_night.png",
+      "biome": "dojo",
+      "scene": "battle stadium",
+      "lighting": "night",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        2,
+        3
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "town_bg_courtyard_day.png",
+      "biome": "town",
+      "scene": "traditional town courtyard",
+      "lighting": "day",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        3,
+        1
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "town_bg_courtyard_dusk.png",
+      "biome": "town",
+      "scene": "traditional town courtyard",
+      "lighting": "dusk",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        3,
+        2
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "town_bg_courtyard_night.png",
+      "biome": "town",
+      "scene": "traditional town courtyard",
+      "lighting": "night",
+      "sourceFile": "some_battle_backgrounds_sheet_untriaged.jpg",
+      "sourceCell": [
+        3,
+        3
+      ],
+      "sourceCropSize": [
+        256,
+        192
+      ],
+      "aspectCropSize": [
+        256,
+        144
+      ]
+    },
+    {
+      "asset": "beach_bg_shore_day.png",
+      "biome": "beach",
+      "scene": "wide beach",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        1,
+        1
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "beach_bg_shore_dusk.png",
+      "biome": "beach",
+      "scene": "wide beach",
+      "lighting": "dusk",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        1,
+        2
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "beach_bg_shore_night.png",
+      "biome": "beach",
+      "scene": "wide beach",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        1,
+        3
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "lake_bg_forest_day.png",
+      "biome": "lake",
+      "scene": "forest lake",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        1,
+        4
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "lake_bg_forest_night.png",
+      "biome": "lake",
+      "scene": "forest lake",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        1,
+        5
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "snowy_forest_bg_plain_day.png",
+      "biome": "snowy_forest",
+      "scene": "snowy plain",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        2,
+        1
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "snowy_forest_bg_plain_night.png",
+      "biome": "snowy_forest",
+      "scene": "snowy plain",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        2,
+        2
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "desert_bg_dunes.png",
+      "biome": "desert",
+      "scene": "sand dunes",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        2,
+        3
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "cave_bg_rock_day.png",
+      "biome": "cave",
+      "scene": "rock cave",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        2,
+        4
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "cave_bg_rock_night.png",
+      "biome": "cave",
+      "scene": "rock cave",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        2,
+        5
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "forest_bg_path_day.png",
+      "biome": "forest",
+      "scene": "forest path",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        3,
+        1
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "forest_bg_path_night.png",
+      "biome": "forest",
+      "scene": "forest path",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        3,
+        2
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "ice_cave_bg_glacier.png",
+      "biome": "ice_cave",
+      "scene": "glacial field",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        3,
+        3
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "cave_bg_stream.png",
+      "biome": "cave",
+      "scene": "underground stream",
+      "lighting": "all",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        3,
+        4
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "seabed_bg_coral.png",
+      "biome": "seabed",
+      "scene": "coral shelf",
+      "lighting": "all",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        3,
+        5
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "mountain_bg_canyon_day.png",
+      "biome": "mountain",
+      "scene": "canyon pass",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        4,
+        1
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "mountain_bg_canyon_dusk.png",
+      "biome": "mountain",
+      "scene": "canyon pass",
+      "lighting": "dusk",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        4,
+        2
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "mountain_bg_canyon_night.png",
+      "biome": "mountain",
+      "scene": "canyon pass",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        4,
+        3
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "tall_grass_bg_field_day.png",
+      "biome": "tall_grass",
+      "scene": "dense grass field",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        4,
+        4
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "tall_grass_bg_field_night.png",
+      "biome": "tall_grass",
+      "scene": "dense grass field",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        4,
+        5
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "sea_bg_open_day.png",
+      "biome": "sea",
+      "scene": "open sea",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        5,
+        1
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "sea_bg_open_night.png",
+      "biome": "sea",
+      "scene": "open sea",
+      "lighting": "night",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        5,
+        2
+      ],
+      "sourceCropSize": [
+        212,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    },
+    {
+      "asset": "badlands_bg_scrub_path.png",
+      "biome": "badlands",
+      "scene": "dry scrub path",
+      "lighting": "day",
+      "sourceFile": "usable-battle-background_sheet_uncut_untriaged.webp",
+      "sourceCell": [
+        5,
+        3
+      ],
+      "sourceCropSize": [
+        213,
+        99
+      ],
+      "aspectCropSize": [
+        176,
+        99
+      ]
+    }
+  ]
+}
