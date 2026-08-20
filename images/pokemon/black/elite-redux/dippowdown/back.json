@@ -1,0 +1,1 @@
+{"erAnchor":2,"textures":[{"image":"back.png","format":"RGBA8888","size":{"w":512,"h":128},"scale":1,"frames":[{"filename":"0001.png","rotated":false,"trimmed":true,"sourceSize":{"w":96,"h":96},"spriteSourceSize":{"x":-16,"y":-16,"w":128,"h":128},"frame":{"x":0,"y":0,"w":128,"h":128}}]}],"meta":{"app":"er-build/generate-er-sprite-atlases","version":"1.0"}}
