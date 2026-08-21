@@ -4,8 +4,8 @@
       "image": "shiny-3.png",
       "format": "RGBA8888",
       "size": {
-        "w": 96,
-        "h": 96
+        "w": 64,
+        "h": 64
       },
       "scale": 1,
       "frames": [
@@ -14,20 +14,20 @@
           "rotated": false,
           "trimmed": false,
           "sourceSize": {
-            "w": 96,
-            "h": 96
+            "w": 64,
+            "h": 64
           },
           "spriteSourceSize": {
             "x": 0,
             "y": 0,
-            "w": 96,
-            "h": 96
+            "w": 64,
+            "h": 64
           },
           "frame": {
             "x": 0,
             "y": 0,
-            "w": 96,
-            "h": 96
+            "w": 64,
+            "h": 64
           }
         }
       ]
